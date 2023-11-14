@@ -1,6 +1,12 @@
-This dataset is used by the paper MCMNet: Multi-modal Context Mutual Guidance Network for Infrared and Visible Image Fusion, which contains three open-source datasets, MSRS, RoadScene and TNO.
+# MCMNet: Multi-modal Context Mutual Guidance Network for Infrared and Visible Image Fusion
 
-If you use this dataset, please cite it as follows:
+Source Code of MCMNet: Multi-modal Context Mutual Guidance Network for Infrared and Visible Image Fusion
+
+The model code and training code will be made public once the paper is accepted.
+
+
+
+The three datasets used in the article.
 
 MSRS Dataset
 
