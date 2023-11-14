@@ -6,7 +6,7 @@ The model and training code will be made public once the paper is accepted.
 
 
 
-The three datasets used in the article.
+The three datasets used in the article are as follows:
 
 MSRS Dataset
 
